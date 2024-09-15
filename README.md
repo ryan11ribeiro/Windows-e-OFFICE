@@ -3,8 +3,9 @@
 
 TENTE ESSE PRIMEIRO:
 irm https://get.activated.win | iex
-
-
+--------------------------------------------
+PARA BAIXAR O OFFICE:
+https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2016_64Bit_Brazilian_MLF_X20-42424.ISO
 --------------------------------------------
 
 1- Open location of the Office installed on your PC.
