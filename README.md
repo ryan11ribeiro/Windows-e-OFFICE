@@ -1,10 +1,10 @@
-# Windowns-e-OFFICE
+# Windows-e-OFFICE
 --------------------------------------------
 
-TENTE ESSE PRIMEIRO:
+TENTE ESSE PRIMEIRO PARA ATIVAR O WINDOWS E O PACOTE OFFICE :
 irm https://get.activated.win | iex
 --------------------------------------------
-PARA BAIXAR O OFFICE:
+PARA BAIXAR O OFFICE CASO OS APPS NÃO ESTEJAM INSTALADOS:
 https://drive.google.com/file/d/1qIWkVxCjx3-i6acKY5wt0bqlysUz0RaU/view?usp=drive_link
 --------------------------------------------
 
